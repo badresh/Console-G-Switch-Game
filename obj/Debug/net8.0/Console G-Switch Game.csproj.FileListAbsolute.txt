@@ -1,0 +1,14 @@
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\Console G-Switch Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\Console G-Switch Game.AssemblyInfoInputs.cache
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\Console G-Switch Game.AssemblyInfo.cs
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\Console G-Switch Game.csproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Debug\net8.0\Console G-Switch Game.exe
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Debug\net8.0\Console G-Switch Game.deps.json
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Debug\net8.0\Console G-Switch Game.runtimeconfig.json
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Debug\net8.0\Console G-Switch Game.dll
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Debug\net8.0\Console G-Switch Game.pdb
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\Console G-Switch Game.dll
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\refint\Console G-Switch Game.dll
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\Console G-Switch Game.pdb
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\Console G-Switch Game.genruntimeconfig.cache
+C:\Users\badvi\source\repos\Console G-Switch Game\obj\Debug\net8.0\ref\Console G-Switch Game.dll

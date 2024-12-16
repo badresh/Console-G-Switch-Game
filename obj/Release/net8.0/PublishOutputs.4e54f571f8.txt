@@ -1,0 +1,5 @@
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Release\net8.0\publish\Console G-Switch Game.exe
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Release\net8.0\publish\Console G-Switch Game.dll
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Release\net8.0\publish\Console G-Switch Game.deps.json
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Release\net8.0\publish\Console G-Switch Game.runtimeconfig.json
+C:\Users\badvi\source\repos\Console G-Switch Game\bin\Release\net8.0\publish\Console G-Switch Game.pdb
